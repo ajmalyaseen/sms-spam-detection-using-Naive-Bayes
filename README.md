@@ -36,4 +36,4 @@ Open `spam_detection.ipynb` in Google Colab or Jupyter Notebook to explore the c
 
 ## Dataset
 SMS Spam Collection dataset. See the original dataset source and its terms before redistribution.
-
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
